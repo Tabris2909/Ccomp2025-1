@@ -7,8 +7,7 @@
 # Ignorar todos los archivos temporales
 *.tmp
 
-# Ignorar una carpeta completa
-/carpeta_que_no_quiero_subir/
+
 
 # Ignorar todos los archivos .dll
 *.dll
