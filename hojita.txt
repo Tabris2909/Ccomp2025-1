@@ -5,3 +5,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Tabris2909/Repositorio-.git
 git push -u origin main
+git clone https://github.com/Tabris2909/Ccomp2025-1.git
